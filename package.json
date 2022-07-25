@@ -1,0 +1,23 @@
+{
+  "name": "yt",
+  "version": "1.0.0",
+  "description": "Download videos from Youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diwalker/yasTube.git"
+  },
+  "author": "Diego Pereira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diwalker/yasTube/issues"
+  },
+  "homepage": "https://github.com/diwalker/yasTube#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "ytdl-core": "^4.11.0"
+  }
+}
